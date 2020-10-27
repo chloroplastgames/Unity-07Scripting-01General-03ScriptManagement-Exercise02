@@ -155,9 +155,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55dece443a99b5648b2141208e232f8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 10
   _projectil: {fileID: 7491581833757144687, guid: 0551d7f55a53b654eb00da2f6bb45d2e, type: 3}
-  _projectileForce: 400
+  _gameData: {fileID: 11400000, guid: a3e9d57748e74ed4db87fd7a57c3b398, type: 2}
 --- !u!65 &456588746
 BoxCollider:
   m_ObjectHideFlags: 0
